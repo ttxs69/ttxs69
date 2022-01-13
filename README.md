@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ttxs69.ttxs69&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ttxs69.ttxs69&left_color=green&right_color=red)  
 ![Anurag's GitHub stats](https://github-readme-stats-two-beta-76.vercel.app/api?username=ttxs69&show_icons=true&theme=radical)
 <!--
 **ttxs69/ttxs69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
