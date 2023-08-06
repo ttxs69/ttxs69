@@ -1,5 +1,4 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ttxs69.ttxs69&left_color=green&right_color=red)  
 
 - 🔭 I’m currently working on **Android Game Security**.
 - 🌱 I’m currently learning **C++**.
